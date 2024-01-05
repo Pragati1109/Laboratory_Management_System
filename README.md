@@ -23,3 +23,7 @@ The different features provided by this application are as follows:
 
 ## Program Workflow
 ![Program Workflow](final_program_workflow.jpg)
+
+## Project Report
+Please go through the project report for more details and output explains.
+[Project_Report](Project_Report.pdf)
